@@ -6,6 +6,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mashuk-bd&rank=-?)
 
+### Social
+
+[LinkedIn](https://www.linkedin.com/in/mashukur-rahman-376964a1)
+
 ### 📊 GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/mashuk-bd?label=Follow&style=social)
